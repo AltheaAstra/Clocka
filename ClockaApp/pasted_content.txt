@@ -1,0 +1,136 @@
+Create a beautiful and luxurious application named "Clockka" designed specifically for Buddhist activities, meditation retreats, children's Dharma camps, yogi practitioners, and merit-making events.
+
+## Core Vision
+
+Clockka is not just a clock application. It is a peaceful companion for mindfulness, meditation practice, and Buddhist activities. The experience should feel calm, elegant, premium, and spiritually inspiring while remaining extremely simple and intuitive for users of all ages, including children, elderly practitioners, monks, nuns, and meditation yogis.
+
+## Design Language
+
+* Luxury Buddhist aesthetic.
+* Minimal, elegant, and distraction-free interface.
+* Premium materials inspired by gold, ivory, warm wood, temple architecture, soft light, and gentle gradients.
+* Smooth animations and transitions.
+* Large readable typography suitable for elderly users.
+* Dark mode and light mode.
+* Beautiful ambient backgrounds inspired by temples, nature, sunrise, moonlight, forests, mountains, and meditation halls.
+* Every screen should feel peaceful and calming.
+
+## Main Features
+
+### 1. Smart Buddhist Clock
+
+* Display current time with beautiful luxury design.
+* Support analog clock mode.
+* Support digital clock mode.
+* Support fullscreen meditation mode.
+
+### 2. Quarter Hour Bell System
+
+The clock should announce time automatically every 15 minutes.
+
+Examples:
+
+* 00 minutes
+* 15 minutes
+* 30 minutes
+* 45 minutes
+
+Users can enable or disable each interval independently.
+
+### 3. Special Hour Sound Identity
+
+Different hours should have unique sound identities to help practitioners recognize time without looking at the clock.
+
+Requirements:
+
+* 12:00 and 6:00 use completely different signature sounds.
+* 09:00 and 18:00 must never sound identical.
+* Morning, afternoon, evening, and night should have different sound atmospheres.
+* Users should instantly recognize important hours only from hearing the sound.
+
+Example concepts:
+
+* 06:00 → soft morning temple bell.
+* 09:00 → bright wooden mokugyo rhythm.
+* 12:00 → elegant noon bell with longer resonance.
+* 18:00 → evening chanting bell.
+* 21:00 → calm meditation chime.
+* Midnight → deep and peaceful temple gong.
+
+### 4. Sound Customization
+
+Allow users to choose their preferred sounds:
+
+* Temple bell.
+* Singing bowl.
+* Wooden mokugyo.
+* Wind chimes.
+* Nature ambience.
+* Meditation tones.
+* Children's friendly sounds for Dharma camps.
+
+Users can:
+
+* Adjust volume.
+* Select sound packs.
+* Preview sounds.
+* Create custom schedules.
+
+### 5. Buddhist Event Mode
+
+Special presets for:
+
+* Children's Dharma camps.
+* Meditation retreats.
+* Yogi intensive practice.
+* Temple ceremonies.
+* Merit-making events.
+* Ordination ceremonies.
+* Chanting sessions.
+
+Each preset automatically configures sounds and schedules.
+
+### 6. Meditation Mode
+
+* Focus mode with no distractions.
+* Breathing animation.
+* Session timer.
+* Silent visual notifications.
+* Gentle end-session sounds.
+
+### 7. Accessibility
+
+* Extremely simple navigation.
+* Large buttons.
+* Elder-friendly UI.
+* Child-friendly mode.
+* One-touch activation for common functions.
+
+## Experience Goals
+
+Users should feel:
+
+* Peaceful.
+* Focused.
+* Mindful.
+* Comfortable.
+* Spiritually connected.
+
+Clockka should feel like a premium meditation instrument rather than a normal clock application.
+
+## Technical Requirements
+
+* Responsive design.
+* Desktop support.
+* Tablet support.
+* Mobile support.
+* Offline capability.
+* Local notifications.
+* Background execution for scheduled sounds.
+* High performance and low battery usage.
+
+## Final Design Philosophy
+
+"Time should not interrupt practice. Time should support mindfulness."
+
+Clockka must become a beautiful bridge between timekeeping and mindful living.
